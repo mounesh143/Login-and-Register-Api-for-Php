@@ -1,0 +1,12 @@
+[12-Mar-2018 13:16:05 Europe/London] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/password.php on line 109
+[12-Mar-2018 13:18:52 Europe/London] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/password.php on line 109
+[12-Mar-2018 13:19:42 Europe/London] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/password.php on line 109
+[12-Mar-2018 14:03:51 Europe/London] PHP Warning:  include(database/db_conection.php): failed to open stream: No such file or directory in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/admin.php on line 130
+[12-Mar-2018 14:03:51 Europe/London] PHP Warning:  include(database/db_conection.php): failed to open stream: No such file or directory in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/admin.php on line 130
+[12-Mar-2018 14:03:51 Europe/London] PHP Warning:  include(): Failed opening 'database/db_conection.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/admin.php on line 130
+[12-Mar-2018 14:03:51 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/admin.php on line 132
+[12-Mar-2018 14:03:51 Europe/London] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/admin.php on line 134
+[12-Mar-2018 14:06:22 Europe/London] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/classes/user.php on line 64
+[12-Mar-2018 14:06:25 Europe/London] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/classes/user.php on line 64
+[12-Mar-2018 14:08:07 Europe/London] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/classes/user.php on line 64
+[12-Mar-2018 14:08:48 Europe/London] PHP Fatal error:  Cannot declare class User, because the name is already in use in /home/jamboree/public_html/mounish/kicchasudeep/Liveapi/classes/user.php on line 64
