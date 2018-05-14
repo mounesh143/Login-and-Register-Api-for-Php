@@ -1,0 +1,24 @@
+.body
+{
+    color: red;
+    
+}
+
+.container
+{
+    background-color: aqua; 
+    width: 100%;
+    margin: 50px;
+    top: 50px;
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+    .container
+    {
+        background-color: red;
+        width: 50%;
+        height: 50%;
+    }
+}
